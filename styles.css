@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+}
+
+.titulo {
+    color: red;
+    text-align: center;
+    font-size: 45px;
+}
+
+.parrafo {
+    color: yellow;
+    font-size: 25px;
+    font-family: "Arial", sans-serif;
+}
+
+#image-index {
+    height: auto;
+    width: 400px;
+}
+
+.listas {
+    color: yellow;
+    font-size: 30px;
+}
